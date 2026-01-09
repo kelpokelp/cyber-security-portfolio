@@ -22,8 +22,8 @@ Forsisatria is a cooperative savings and loan web application that I developed u
 In this system, I implemented ElGamal encryption to protect sensitive data such as identity numbers and account numbers so that they are not stored in plaintext in the database.
 During the development process, I used AI as a learning reference, then studied, adapted, and reimplemented it according to the system's needs.
 ### Results:
-•Customer sensitive data is not easily accessible by irresponsible hackers<br>
-•Makes it easier for customers to save and borrow money<br>
+• Customer sensitive data is not easily accessible by irresponsible hackers<br>
+• Makes it easier for customers to save and borrow money<br>
 ### What I have learned so far:
 Acquiring the basics of vulnerability penetration by
 learning Wireshark, Nmap, SQLmap, and BrubSuite tools to analyze traffic and detect threats on the network and detect threats.
