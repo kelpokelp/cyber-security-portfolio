@@ -2,7 +2,7 @@
 Welcome to my portfolio!
 This repository displays projects I have created and my goals and interests in the field of cyber security. 
 # About me
-Hi, my name is Kevin. I am interested in studying and pursuing a career in cyber security. I am dedicated to learning and applying best practices to protect systems and data. I am currently pursuing a degree in Cyber Security Analyst.<br>
+Hi, my name is Kevin marihot. I am interested in studying and pursuing a career in cyber security. I am dedicated to learning and applying best practices to protect systems and data. I am currently pursuing a degree in Cyber Security Analyst.<br>
 Current role: Student<br>
 Interests: I am very interested in testing security systems and helping companies improve the security of their existing systems. 
 # technical skills
