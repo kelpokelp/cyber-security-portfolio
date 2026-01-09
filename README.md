@@ -28,7 +28,7 @@ During the development process, I used AI as a learning reference, then studied,
 Acquiring the basics of vulnerability penetration by
 learning Wireshark, Nmap, SQLmap, and BrubSuite tools to analyze traffic and detect threats on the network and detect threats.
 ## Certifications and Training
-### Pelatihan dan Platform:
+### Training and Platform:
 Following learners on several learning platforms such as<br> 
 •Udemy<br>
 •Coding Studio<br> 
