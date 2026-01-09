@@ -29,9 +29,9 @@ Acquiring the basics of vulnerability penetration by
 learning Wireshark, Nmap, SQLmap, and BrubSuite tools to analyze traffic and detect threats on the network and detect threats.
 ## Certifications and Training
 ### Training and Platform:
-Following learners on several learning platforms such as<br> 
-•Udemy<br>
-•Coding Studio<br> 
+Following learners on several learning platforms such as<br>
+• Udemy<br>
+• Coding Studio<br>
 the materials I took were web security & bug bounty and nmap master, computer network fundamentals, penetration testing fundamentals or ethical hacking, and Linux command line.
 ## Career Goals
 To become a Cyber Security Professional who identifies various security vulnerabilities in systems and applications, provides appropriate and effective mitigation solutions, and contributes to improving the security level of information systems from cyber threats and attacks.
