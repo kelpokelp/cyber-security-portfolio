@@ -12,7 +12,7 @@ pengujian penetrasi : Metasploid, Brub suite, sqlmap,<br>
 ### Programming languages 
 •	PHP (Laravel)<br>
 •	SQL / MySQL<br>
-•	HTML, CSS, JavaScript (Basic)<br>
+•	HTML, (Basic)<br>
 •	Python (Basic)<br>
 ## project experience 
 Portfolio Project: Forsisatria
